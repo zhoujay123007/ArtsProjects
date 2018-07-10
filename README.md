@@ -1,5 +1,7 @@
 # ArtsProject是一个基于django的web平台
 
+作者：zhougy
+
 python版本：
     python3.6.4
 
